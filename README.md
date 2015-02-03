@@ -5,3 +5,4 @@ Introduction to test-driven development.
 Completed solutions:
 * 00
 * 01
+* 02
