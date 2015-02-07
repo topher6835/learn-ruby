@@ -8,3 +8,5 @@ Completed solutions:
 * 02
 * 03
 * 04
+* 08
+* 09
